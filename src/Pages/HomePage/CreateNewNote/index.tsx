@@ -31,7 +31,7 @@ const CreateNewNote = () => {
       addTitleRef.current.value = "";
       addTextRef.current.value = "";
     } else {
-      alert("note yaz")id
+      alert("note yaz")
     }    
   }
 
